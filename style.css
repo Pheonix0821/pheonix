@@ -1,0 +1,70 @@
+* {
+    font-family: 'B612 Mono', monospace;
+}
+
+.navel {
+    text-align: center;
+    text-decoration: none;
+   
+}
+.navel a {
+background-color: floralwhite;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-left: 10px;
+padding-right: 10px;
+border-radius: 10px;
+text-decoration: none;
+color: black;
+font-family: 'changa', sans-serif;
+
+}
+
+.navel a:hover {
+    background-color: blanchedalmond;
+    color: rgb(30, 30, 30);
+    border-radius: 10%;
+}
+
+.navbar {
+    background-color: dimgrey;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+footer {
+    text-align: center;
+    background-color: cornsilk;
+    padding-bottom: 10px;
+    padding-top: 5px;
+    
+}
+
+.heador {
+    text-align: center;
+    font-family: 'changa', sans-serif;
+}
+
+#welcome {
+    text-align: center;
+}
+
+.felix {
+    margin-left: 42%;
+}
+
+.felix img:hover {
+    box-shadow: 3px 3px 5px 5px #363636;
+
+}
+
+.memz img {
+    width: 20%;
+    height: auto;
+    
+}
+
+.memz img:hover {
+    box-shadow: 3px 3px 5px 5px #363636;
+    width: 24%;
+}
