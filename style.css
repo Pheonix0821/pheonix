@@ -72,3 +72,8 @@ footer {
 .heder {
 text-align: center;
 }
+
+.art img {
+width: 30%;
+    height: auto;
+}
